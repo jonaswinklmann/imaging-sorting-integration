@@ -1,0 +1,3 @@
+[submodule "modules/resorting"]
+	path = modules/resorting
+	url = https://github.com/jonaswinklmann/resorting.git
